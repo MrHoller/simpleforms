@@ -1,0 +1,6 @@
+name: simpleforms
+version: 4.0.0
+antigen: mrholler\simpleforms
+api: ["4.0.0"]
+php: [8.0, 8.1]
+author: mrholler
